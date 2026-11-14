@@ -10,7 +10,7 @@
   <a href="https://mavori.ai/download"><strong>Download for desktop</strong></a> ·
   <a href="https://app.mavori.ai">Open the web app</a> ·
   <a href="https://mavori.ai">Explore Mavori</a> ·
-  <a href="https://github.com/Anyrainel/mavori-desktop/releases">Release notes</a>
+  <a href="https://github.com/MavoriAI/mavori-desktop/releases">Release notes</a>
 </p>
 
 ---
@@ -58,9 +58,9 @@ Keep Mavori in its own window, with a system tray, keyboard shortcuts, native no
 
 | Platform | Download |
 | --- | --- |
-| Windows | [Windows installer (.exe)](https://github.com/Anyrainel/mavori-desktop/releases/latest/download/Mavori_Installer_Windows_x64.exe) |
-| macOS · Apple silicon | [Apple silicon installer (.dmg)](https://github.com/Anyrainel/mavori-desktop/releases/latest/download/Mavori_Installer_macOS_arm64.dmg) |
-| Linux | [Linux AppImage](https://github.com/Anyrainel/mavori-desktop/releases/latest/download/Mavori_Linux_x64.AppImage) |
+| Windows | [Windows installer (.exe)](https://github.com/MavoriAI/mavori-desktop/releases/latest/download/Mavori_Installer_Windows_x64.exe) |
+| macOS · Apple silicon | [Apple silicon installer (.dmg)](https://github.com/MavoriAI/mavori-desktop/releases/latest/download/Mavori_Installer_macOS_arm64.dmg) |
+| Linux | [Linux AppImage](https://github.com/MavoriAI/mavori-desktop/releases/latest/download/Mavori_Linux_x64.AppImage) |
 
 ### Get started
 
@@ -81,7 +81,7 @@ Mavori uses hosted services and requires an internet connection. Access to indiv
 
 ## Feedback & support
 
-Found a bug or have an idea? [Open an issue](https://github.com/Anyrainel/mavori-desktop/issues). For bugs, include your operating system, app version, and steps to reproduce the problem. Remove account details and other private information from screenshots and logs.
+Found a bug or have an idea? [Open an issue](https://github.com/MavoriAI/mavori-desktop/issues). For bugs, include your operating system, app version, and steps to reproduce the problem. Remove account details and other private information from screenshots and logs.
 
 For account or billing help, email [support@mavori.ai](mailto:support@mavori.ai).
 
